@@ -302,7 +302,7 @@ Este proyecto está licenciado bajo la **Licencia MIT** - consulta el archivo [L
 ```
 MIT License
 
-Copyright (c) 2023 Rodrigo Salva
+Copyright (c) 2025 Rodrigo Salva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -324,7 +324,7 @@ copies or substantial portions of the Software.
 **Rodrigo Salva**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodrigo-Salva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-salva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-daniel-salva-saccatoma)
 
 *Desarrollado con ❤️ para el Challenge de Alura*
 
@@ -337,5 +337,5 @@ copies or substantial portions of the Software.
 ---
 
 <div align="center">
-  <sub>Built with 🔥 by <a href="https://github.com/Rodrigo-Salva">Rodrigo Salva</a> • Challenge Alura 2023</sub>
+  <sub>Built with 🔥 by <a href="https://github.com/Rodrigo-Salva">Rodrigo Salva</a> • Challenge Alura 2025</sub>
 </div>
