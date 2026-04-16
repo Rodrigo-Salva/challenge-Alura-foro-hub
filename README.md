@@ -1,4 +1,4 @@
-# 🏆 Challenge Alura Foro Hub
+# Challenge Alura Foro Hub
 
 <div align="center">
 
@@ -19,13 +19,13 @@
 
 ---
 
-## ✨ Características principales
+## Características principales
 
 <table>
 <tr>
 <td>
 
-🧑‍💼 **Gestión de usuarios**
+**Gestión de usuarios**
 - Registro y autenticación
 - Perfiles personalizables
 - Control de acceso
@@ -33,7 +33,7 @@
 </td>
 <td>
 
-💬 **Sistema de discusión** 
+**Sistema de discusión** 
 - Creación de temas
 - Mensajes y respuestas
 - Hilos de conversación
@@ -51,7 +51,7 @@
 </td>
 <td>
 
-💾 **Persistencia de datos**
+**Persistencia de datos**
 - Base de datos relacional
 - JPA/Hibernate
 - Migraciones automáticas
