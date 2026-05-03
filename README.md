@@ -10,10 +10,10 @@
 
 *Aplicación de foro desarrollada como parte de un desafío de Alura*
 
-[🚀 Demo](#-instalación-y-ejecución) • 
-[📖 Documentación](#-documentación-de-la-api) • 
-[🤝 Contribuir](#-contribuciones) • 
-[📄 Licencia](#-licencia)
+[Demo](#-instalación-y-ejecución) • 
+[Documentación](#-documentación-de-la-api) • 
+[Contribuir](#-contribuciones) • 
+[Licencia](#-licencia)
 
 </div>
 
